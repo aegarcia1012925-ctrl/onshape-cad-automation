@@ -1,0 +1,2 @@
+# onshape-cad-automation
+Automatic
